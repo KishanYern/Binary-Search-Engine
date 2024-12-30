@@ -2,10 +2,6 @@ import pandas as pd # To output a dataframe
 import numpy as np
 import pickle # To convert the dataframe to a pickle file
 import argparse # Parsing the input
-# from string import punctuation  # For the common punctuation words - https://docs.python.org/3/library/string.html#string.punctuation
-# import requests
-# from nltk.tokenize import word_tokenize  # word_tokenize - https://www.nltk.org/api/nltk.tokenize.word_tokenize.html
-# from nltk.stem import WordNetLemmatizer
 import joblib
 import faiss
 import spacy
